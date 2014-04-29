@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAX_XML</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_read_xml">解析XML</string>
+    <string name="btn_write_xml">写入XML</string>
+    <string name="title_activity_river_display">RiverDisplayActivity</string>
+    <string name="btn_sax_xml">SAX解析</string>
+    <string name="btn_pull_xml">PULL解析</string>
+
+</resources>
